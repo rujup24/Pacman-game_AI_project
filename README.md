@@ -1,1 +1,1 @@
-# Pacman-gane_AI_project
+# Pacman-game_AI_project
